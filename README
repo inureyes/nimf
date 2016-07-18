@@ -1,3 +1,13 @@
+nimf 를 사용하지 마십시오.
+nimf 를 사용하면 여러가지 문제가 발생합니다.
+nimf 대신에 fcitx, ibus, uim, imhangul, nabi 를 사용하시기 바랍니다.
+이용에 불편을 끼쳐드려 대단히 죄송합니다.
+
+Do not use nimf.
+The nimf has caused many problems.
+Use fcitx, ibus, uim, imhangul, nabi instead of nimf.
+I sincerely apologize for the inconvenience caused.
+
 Nimf is an input method framework which has a module-based client-server
 architecture in which an application acts as a client and communicates
 synchronously with the Nimf server via a unix socket.
